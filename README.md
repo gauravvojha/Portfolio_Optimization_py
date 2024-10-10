@@ -141,6 +141,6 @@ After running the script, the system will display:
 
 This project is licensed under the MIT License.
 
-****Author****gauravvojha****
+****Author**** -> ****gauravvojha****
 
 By incorporating ESG data into your portfolio, combined with machine learning predictions and stress testing, this project enables an advanced investment strategy tailored to both financial returns and sustainability.
